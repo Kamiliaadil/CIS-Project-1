@@ -1,5 +1,5 @@
 # CSC-Project-1
-Predict the 10-Year-Risk of CHD
+
 Predict the Risk of 10-Year Heart Disease CHD
 
    1.	Problem statement:
@@ -8,7 +8,7 @@ This project aims to predict the 10-year risk of heart disease using health info
 The goal is to classify individuals into two categories: having heart disease or not having heart disease. The primary motivation is to enhance risk prediction strategies for early identification of at-risk individuals and effective heart disease prevention.
 While the project demonstrates significant potential, there are certain limitations to address. The dataset size may impact the complexity and reliability of the machine-learning models. Additionally, accurately predicting heart diseases can be challenging due to uncertainties, such as unaccounted lifestyle choices and other influencing factors.
 
-    2.	Literature review:
+    2. Literature review:
     
 In recent years, heart disease prediction has garnered substantial attention due to its potential in early risk identification and prevention strategies. Researchers have explored various approaches to predict heart disease, ranging from traditional risk factors such as age, gender, and cholesterol levels to more advanced techniques involving machine learning and data mining. Prior studies have emphasized the significance of accurate risk assessment, aiming to mitigate the global burden of heart disease. While some research has focused on individual risk factors, others have leveraged comprehensive datasets to develop predictive models capable of identifying individuals at high risk. These endeavors reflect the growing importance of employing data-driven methodologies to enhance heart disease prediction, ultimately contributing to improved patient care and health outcomes.
    3.	Data description:
