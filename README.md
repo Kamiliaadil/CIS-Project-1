@@ -1,4 +1,4 @@
-# CSC-Project-1
+# CIS-Project-1
 
 Predict the Risk of 10-Year Heart Disease CHD
 
